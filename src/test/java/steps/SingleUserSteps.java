@@ -41,6 +41,7 @@ public class SingleUserSteps extends SingleSetup {
                 .body("data.id", equalTo(2));
 
 
+
     }
 
 }
